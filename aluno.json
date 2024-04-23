@@ -1,0 +1,19 @@
+{
+  "id": 223311,
+  "nome": "Guilherme",
+  "idade": 22,
+  "cursor": "Análise e desenvolvimento",
+  "matriculado": true,
+  "notas": {
+    "Logica": 8.5,
+    "Banco de Dados": 7.8,
+    "Desenvolvimento Web": 9.2
+  },
+  "endereco": {
+    "rua": "Rua tal",
+    "numero": 123,
+    "cidade": "Cidade tal",
+    "estado": "SP",
+    "cep": "08500-123"
+  }
+}
